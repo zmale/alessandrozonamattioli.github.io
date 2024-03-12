@@ -7,13 +7,16 @@ venue: "Economics & Spatial Economics Department, VU School of Business and Econ
 location: "Amsterdam, The Netherlands"
 ---
 
-BSc level courses I worked as TA for:
+---
+
+**BSc level courses I worked as TA for:**
 
 Macroeconomics I (2022) with Björn Brugemann
+
 Macroeconomics II (2022, 2023) with Eric Bartelsman
 
 ---
 
-MSc level courses I worked as TA for:
+**MSc level courses I worked as TA for:**
 
 Real Estate Economics (2021, 2022, 2023) with Jan Rouwendal and Arno v.d. Vlist
