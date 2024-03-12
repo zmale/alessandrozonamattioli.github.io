@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-![figure](/images/panoramica-sul-gruppo-del-brenta.jpg)
 
 I am a Ph.D. candidate in Economics at the [VU Amsterdam](https://vu.nl/en/about-vu/faculties/school-of-business-and-economics/departments/economics) and the [Tinbergen Institute](https://www.tinbergen.nl/home). My advisors are [Prof. Eric Bartelsman](https://tinbergen.nl/person/59/eric-bartelsman) and [Prof. Michael König](https://research.vu.nl/en/persons/michael-konig). 
    
