@@ -39,9 +39,15 @@ The consensus back in 2008 – ten years after the introduction of the euro – 
   </small>
 </details><br>
 
-
-
-
+**Living with Lower Productivity Growth: Impact on Exports** (with Filippo Di Mauro, Bernardo Mottironi, Gianmarco Ottaviano). 2019. *Facing Up to Low Productivity Growth, Columbia University Press, New York (USA). eds. Posen A. and Zettelmeyer J.* &bull; <small>[Link to download](https://www.piie.com/bookstore/facing-low-productivity-growth)</small>
+<details>
+  <summary>
+    <small>Book Description</small>
+  </summary> 
+  <small>
+Labor productivity growth in the United States and other advanced countries has slowed dramatically since the mid-2000s, a major factor in their economic stagnation and political turmoil. Economists have been debating the causes of the slowdown and possible remedies for some years. Unaddressed in this discussion is what happens if the slowdown is not reversed. In this volume, a dozen renowned scholars analyze the impact of sustained lower productivity growth on public finances, social protection, trade, capital flows, wages, inequality, and, ultimately, politics in the advanced industrial world. They conclude that slow productivity growth could lead to unpredictable and possibly dangerous new problems, aggravating inequality and increasing concentration of market power. Facing Up to Low Productivity Growth also proposes ways that countries can cope with these consequences. 
+  </small>
+</details><br>
 
 
 
