@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+![Cover image](https://zmale.github.io/alessandrozonamattioli.github.io/images/dolomites_cut.png)
 
 I am a Ph.D. candidate in Economics at the [VU Amsterdam](https://vu.nl/en/about-vu/faculties/school-of-business-and-economics/departments/economics) and the [Tinbergen Institute](https://www.tinbergen.nl/home). My advisors are [Prof. Eric Bartelsman](https://tinbergen.nl/person/59/eric-bartelsman) and [Prof. Michael König](https://research.vu.nl/en/persons/michael-konig). 
    
