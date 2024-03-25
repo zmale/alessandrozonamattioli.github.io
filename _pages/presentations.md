@@ -7,6 +7,7 @@ title: Presentations
 
 | When | Where | Event |
 | --- | --- | --- |
+| 5-7 Sept 2024  | **Bergen, Norway** | **EALE 2024** |
 | 25 Apr 2024  | **the Hague, The Netherlands** | **Central Plannning Bureau** Lunch Seminar |
 | 27 Mar 2024  | **Florence, Italy** | **European University Institute** EUI macro working group seminar |
 | 22 Feb 2024 | **Vienna, Austria**     | 3rd **CompNet** TSI meeting, **Bank of Austria** |
