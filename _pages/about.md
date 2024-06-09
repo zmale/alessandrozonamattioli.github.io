@@ -33,8 +33,14 @@ Professor of Economics
 Universiteit van Amsterdam
 e.c.perotti@uva.nl 
 
-**Dr. Michael König**
+**Dr. Sabien Dobbelaere**
 Professor of Economics
 Vrije Universiteit Amsterdam
-m.d.konig@vu.nl
+sabien.dobbelaere@vu.nl
+
+**Prof. Dr.Javier Miranda**
+Professor of Economics
+Halle Institute for Economic Research
+Javier.Miranda@iwh-halle.de
+
 
