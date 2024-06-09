@@ -19,6 +19,8 @@ My PhD thesis is focused on the implications of the **rising importance of intan
 
 During my PhD I have contributed in developing the [CompNet Micro Data Infrastructure (MDI)](https://www.comp-net.org/eu-technical-support-instrument-tsi/data/) in the context of the [EU Technical Support Instrument](https://www.comp-net.org/eu-technical-support-instrument-tsi/overview/).
 
+In June 2024 I will visit UCLA hosted by Andrea Eisfeldt and Michael Rubens.
+
 ---
 
 ***References:***    
