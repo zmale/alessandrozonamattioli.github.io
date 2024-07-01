@@ -8,6 +8,8 @@ title: Presentations
 | When | Where | Event |
 | --- | --- | --- |
 | 5-7 Sept 2024  | **Bergen, Norway** | **EALE 2024** |
+| 30 Aug - 1 Sept 2024 | **Amsterdam, The Netherlands** | **EARIE 2024**
+| 26-29 Aug 2024 | **Rotterdam, The Netherlands** | **EEA 2024**
 | 27 June 2024  | **Paris, France** | **OECD (ELS) Internal Lunch Seminar** |
 | 24-25 June 2024  | **Copenhagen, Denmark** | **LEED 2024** |  
 | 17-19 May 2024  | **Pennsylvania State University, USA** | **CAED 2024** |
