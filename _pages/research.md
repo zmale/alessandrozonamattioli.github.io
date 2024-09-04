@@ -6,7 +6,7 @@ title: Research
 
 ## Work in progress
 
-**Non-Compete Agreements, Tacit Knowledge and Market Imperfections** (with Eric Bartelsman and Sabien Dobbelaere). 2024. *IZA \& Tinbergen WP* &bull; <small>[Download paper](https://docs.iza.org/dp17260.pdf)</small>
+**Non-Compete Agreements, Tacit Knowledge and Market Imperfections** (with Eric Bartelsman and Sabien Dobbelaere). 2024. *IZA & Tinbergen Working Paper* &bull; <small>[Download paper](https://docs.iza.org/dp17260.pdf)</small>
 <details>
   <summary>
     <small>Abstract</small>
