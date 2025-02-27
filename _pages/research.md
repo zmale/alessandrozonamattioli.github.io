@@ -27,6 +27,16 @@ Contrary to widespread concerns about rising indebtedness, we show that corporat
   </small>
 </details><br>
 
+**Blurred Price Signals in EU Emissions Trading System** (with Andrea Titton);
+<details>
+  <summary>
+    <small>Abstract</small>
+  </summary> 
+  <small>
+We model firm the link between firms’ innovation decisions and the price of EU ETS. We then calibrate the model using French firm level data. We show that large volatility in the price of EU ETS can coordinate firms into postponing the green transition.
+  </small>
+</details><br>
+
 ## Publications
 
 **The impact of the euro on trade: two decades into monetary union** (with Vanessa Gunnella, Laura Lebastard, Paloma Lopez-Garcia and Roberta Serafini,). 2021. *ECB Occasional Paper Series* &bull; <small>[Download paper](https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op283~a2ff6f5481.en.pdf)</small>
