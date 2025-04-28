@@ -7,6 +7,9 @@ title: Presentations
 
 | When | Where | Event |
 | --- | --- | --- |
+| 12-13 June 2025 | **Milan, Italy** | **CefES 2025** |
+| 1 Apr 2025 | **Paris, France** | **Internal Seminar, OECD** |
+| 25 Oct 2024 | **De Hague, Netherlands** | **NED 2025** |
 | 5-7 Sept 2024  | **Bergen, Norway** | **EALE 2024** |
 | 30 Aug - 1 Sept 2024 | **Amsterdam, The Netherlands** | **EARIE 2024**
 | 26-29 Aug 2024 | **Rotterdam, The Netherlands** | **EEA 2024**
