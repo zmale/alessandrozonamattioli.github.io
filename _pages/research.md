@@ -27,7 +27,17 @@ Contrary to widespread concerns about rising indebtedness, we show that corporat
   </small>
 </details><br>
 
-**Blurred Price Signals in EU Emissions Trading System** (with Andrea Titton);
+**Effects of Product Market Regulation on Service Productivity in the EU: Evidence from Firm Level Data** (with Martin Borowiecki);
+<details>
+  <summary>
+    <small>Abstract</small>
+  </summary> 
+  <small>
+The paper investigates the extent to which regulatory stringency reduces productivity in services sectors across EU countries. To this end, we analyse the effects of sectoral product market regulation (PMR) on firm-level productivity growth and within-sector labour reallocation across EU countries and service sectors for the years 2000 to 2021. Using productivity shocks to US parent companies of EU subsidiaries as an instrument for productivity-enhancing technology shocks in Europe, we show that more stringent PMR are associated with lower firm-level productivity growth as well as lower within-sector labour reallocation. As for firm-level productivity, the effect of productivity shocks to US parents on productivity growth of their EU subsidiaries is weaker in countries and sectors with higher PMR. As for productivity-enhancing within-sector reallocation, employment growth of more productive firms is weaker in countries and sectors with higher PMR. The findings point to productivity benefits of pro-competition reforms to enhance the ability of EU firms to absorb productivity enhancing technological shocks or new managerial practices.
+  </small>
+</details><br>
+
+**Blurred Price Signals in EU Emissions Trading System** (with [Andrea Titton](https://www.andreatitton.com/));
 <details>
   <summary>
     <small>Abstract</small>
