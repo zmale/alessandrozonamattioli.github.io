@@ -21,6 +21,8 @@ During my PhD I have contributed in developing the [CompNet Micro Data Infrastru
 
 In June 2024 I will visit UCLA hosted by Andrea Eisfeldt and Michael Rubens.
 
+In September 2025 I will join the Amsterdam Business School as a post-doctoral researcher.
+
 ---
 
 ***References:***    
