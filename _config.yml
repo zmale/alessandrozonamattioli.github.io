@@ -22,14 +22,14 @@ repository               : "zmale/alessandrozonamattioli.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "self_picture.jpg"
+  avatar           : "self_picture_new.jpg"
   name             : "Alessandro Zona Mattioli"
   pronouns         : # example: "she/her"  
-  bio              : "PhD candidate in Economics at the Vrije Universiteit Amsterdam"
+  bio              : "Postdoctoral fellow at Universiteit van Amsterdam"
   location         : "Amsterdam, The Netherlands"
-  employer         : "VU Amsterdam"
+  employer         : "UvA Amsterdam"
   uri              : # URL
-  email            : "a.zonamattioli@vu.nl" 
+  email            : "a.zonamattioli2@uva.nl" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
