@@ -9,19 +9,11 @@ redirect_from:
 
 ![Cover image](https://zmale.github.io/alessandrozonamattioli.github.io/images/dolomites_cut.png)
 
-I am a Ph.D. candidate in Economics at the [VU Amsterdam](https://vu.nl/en/about-vu/faculties/school-of-business-and-economics/departments/economics) and the [Tinbergen Institute](https://www.tinbergen.nl/home). My advisors are [Prof. Eric Bartelsman](https://tinbergen.nl/person/59/eric-bartelsman) and [Prof. Michael König](https://research.vu.nl/en/persons/michael-konig). 
-   
----
-
-I study **firms' behaviour** to draw **macroeconomic implications** in the field of innovation, productivity growth, competition and macro finance.  
-
-My PhD thesis is focused on the implications of the **rising importance of intangible capital** in modern economies. In my first chapter I study how tacit knowledge shapes the bargaining power of workers in negotiating higher wages when they are emplpyed in firms that rely more on intangible capital. In my second chapter I study how increasing adoption of intangible assets at the firm level helps explaining declining corporate leverage and increasing cash accumulation in recent decades.
+I am a Postdoc at [UvA Amsterdam](https://abs.uva.nl/content/sections/finance/finance.html). My researcher interested in how **intangible capital** is reshaping firms and economies. My research connects firm dynamics and corporate finance to study how investments in knowledge, innovation, and organizational assets affect productivity growth, competition, wages, and broader macro-financial outcomes. 
 
 During my PhD I have contributed in developing the [CompNet Micro Data Infrastructure (MDI)](https://www.comp-net.org/eu-technical-support-instrument-tsi/data/) in the context of the [EU Technical Support Instrument](https://www.comp-net.org/eu-technical-support-instrument-tsi/overview/).
 
-In June 2024 I will visit UCLA hosted by Andrea Eisfeldt and Michael Rubens.
-
-In September 2025 I will join the Amsterdam Business School as a post-doctoral researcher.
+In June 2024 I visited UCLA hosted by Andrea Eisfeldt and Michael Rubens.
 
 ---
 
