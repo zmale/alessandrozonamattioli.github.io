@@ -27,7 +27,7 @@ Contrary to widespread concerns about rising indebtedness, we show that corporat
   </small>
 </details><br>
 
-**Effects of Product Market Regulation on Service Productivity in the EU: Evidence from Firm Level Data** (with Martin Borowiecki). 2025. *OECD Working Paper* ;<small>[Download paper](https://docs.iza.org/dp17260.pdf)</small>
+**Effects of Product Market Regulation on Service Productivity in the EU: Evidence from Firm Level Data** (with Martin Borowiecki). 2025. *OECD Working Paper* ;<small>[Download paper](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/12/product-market-regulation-and-services-productivity-in-the-european-union_a8aa90ce/672ea722-en.pdf)</small>
 <details>
   <summary>
     <small>Abstract</small>
