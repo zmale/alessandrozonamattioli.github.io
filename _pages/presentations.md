@@ -9,6 +9,7 @@ title: Presentations
 | --- | --- | --- |
 | 24-25 Apr 2026 | **Tokyo, Japan** | **FINPRO5** |
 | 15-16 Dec 2025 | **Amsterdam, Netherlands** | **XAmsterdam 2025** |
+| 24-25 Nov 2025 | **The Hague, Netherlands** | **CPB Workshop** |
 | 25-26 Sept 2025 | **Vilnius, Lithiania** | **CompNet Annual Conference 2025** |
 | 28-30 Aug 2025 | **Sevilla, Spain** | **EARIE 2025** |
 | 25-28 Aug 2025 | **Bordeaux, France** | **EEA 2025** |
