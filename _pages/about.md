@@ -9,7 +9,7 @@ redirect_from:
 
 ![Cover image](https://zmale.github.io/alessandrozonamattioli.github.io/images/dolomites_cut.png)
 
-I am a Postdoc at [UvA Amsterdam](https://abs.uva.nl/content/sections/finance/finance.html). My researcher interested in how **intangible capital** is reshaping firms and economies. My research connects firm dynamics and corporate finance to study how investments in knowledge, innovation, and organizational assets affect productivity growth, competition, wages, and broader macro-financial outcomes. 
+I am a Postdoc at [UvA Amsterdam](https://abs.uva.nl/content/sections/finance/finance.html). I am interested in how **intangible capital** is reshaping firms and economies. My research lies at the intersection between IO, Labour and Macrofinance, focusing on how intangible capital relates to wage bargaining, firms' financial decisions and innovation.
 
 During my PhD I have contributed in developing the [CompNet Micro Data Infrastructure (MDI)](https://www.comp-net.org/eu-technical-support-instrument-tsi/data/) in the context of the [EU Technical Support Instrument](https://www.comp-net.org/eu-technical-support-instrument-tsi/overview/).
 
