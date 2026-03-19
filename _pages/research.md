@@ -3,27 +3,15 @@ permalink: /research/
 title: Research
 ---
 
-
 ## Work in progress
 
-**Non-Compete Agreements, Tacit Knowledge and Market Imperfections** (with Eric Bartelsman and Sabien Dobbelaere). 2024. *IZA & Tinbergen Working Paper*, **R&R at European Economic Review** &bull; <small>[Download paper](https://docs.iza.org/dp17260.pdf)</small>, <small>[VoxEU Article](https://cepr-org.vu-nl.idm.oclc.org/voxeu/columns/non-compete-agreements-tacit-knowledge-and-market-imperfections)</small>
+**The Intangible Economy and the Decline of Corporate Leverage in Europe** (with Tomislav Ladika and Enrico Perotti). *Draft coming soon*;
 <details>
   <summary>
     <small>Abstract</small>
   </summary> 
   <small>
-This paper provides evidence from a natural experiment on the importance of tacit knowledge that workers have about firms' intangible assets for competition in product and labor markets. First, evidence is presented on product and labor market imperfections across firms in manufacturing and services industries in the Netherlands. Price-cost markups and wage markups are both shown to be positively related to intangible intensity at the firm level. A model is developed of the processes of intangible investment and wage bargaining of heterogeneous firms that provides a mechanism relating workers' tacit knowledge to product and labor market imperfections at the firm level. The model also provides a role for non-compete agreements (NCAs) limiting worker mobility. Our main empirical contribution comes from using linked employer-employee panel data with information on NCAs and changes in enforceability of these agreements. In a diff-in-diff specification, the paper shows that lifting NCAs increases worker wages and worker mobility and that the effect is stronger for intangible-intensive firms. We find that NCAs affect workers across the skill distribution and across industries. The causal findings from changes in the legality of NCAs correspond with the mechanisms described in the model.
-  </small>
-</details><br>
-
-
-**A structural break in EU corporate leverage trends** (with Tomislav Ladika and Enrico Perotti);
-<details>
-  <summary>
-    <small>Abstract</small>
-  </summary> 
-  <small>
-Contrary to widespread concerns about rising indebtedness, we show that corporate leverage in French and Dutch firms has been in a steady decline for two decades. The decline occurred during periods of strong growth, sharp crises, and recovery under very loose monetary policy. It is consistent across the entire firm size distribution, in dividend and non-dividend paying firms, and high or low productivity growth firms. It appears robust to financial constraint measures, and is not driven by survival bias. Our results suggest a key role for falling credit demand driven by declining investment prospects, while growing firms build intangible capital gradually and need less external financing.
+Contrary to trends in household and government debt, corporate leverage has steadily declined over the past two decades across most economies. This paper documents the EU trend using novel microdata for the near-universe of firms across 21 European countries. Leverage in the EU has fall steadily since 2002, in good and bad times, declining at  similar rates across firms of different sizes, productivity and dividend policies. While traditional explanations  focus on tighter credit supply, our evidence suggests a key role for falling credit demand, driven by lower prospects and in-house development of intangible capital. In a dynamic model of tangible and intangible investment, firms better at creating intangibles need less upfront financing and achieve greater economies of scale, higher profitability and market power. As intangibles are less appropriable, they face more external financing constraints, while retention of key human capital requires less financial risk. Firms thus store cash and limit net leverage for both strategic and traditional precautionary purposes. We quantify the importance of each channel in explaining the decline in European corporate leverage.
   </small>
 </details><br>
 
@@ -49,6 +37,16 @@ We model firm the link between firms’ innovation decisions and the price of EU
 
 ## Publications
 
+**Intangible assets and imperfections in product and labor markets** (with Eric Bartelsman and Sabien Dobbelaere). 2026. *European Economic Review*, vol. 186, 105309 &bull; <small>[Link to paper]([https://docs.iza.org/dp17260.pdf](https://www-sciencedirect-com.vu-nl.idm.oclc.org/science/article/pii/S001429212600053X))</small>, <small>[VoxEU Article](https://cepr-org.vu-nl.idm.oclc.org/voxeu/columns/non-compete-agreements-tacit-knowledge-and-market-imperfections)</small>
+<details>
+  <summary>
+    <small>Abstract</small>
+  </summary> 
+  <small>
+This paper develops a micro-founded framework linking price–cost and wage markups to intangible assets. Intangible assets, once created, are a source of firm rents. Owing to limits to enforceable ownership and the non-rival nature of knowledge, these rents can be both retained by the origin firm and transferred to a competitor through poaching of workers. Search and matching frictions affect labor mobility and result in bargaining over rents between the firm and the worker. This environment generates hold-up in intangible asset creation and motivates rent sharing. Under non-compete agreements, poached workers face start delays that weaken outside options. Using microdata from the Netherlands, we document higher price–cost and wage markups in more intangible-intensive firms and lower wages for workers with non-compete agreements, consistent with the model.
+  </small>
+</details><br>
+
 **The impact of the euro on trade: two decades into monetary union** (with Vanessa Gunnella, Laura Lebastard, Paloma Lopez-Garcia and Roberta Serafini,). 2021. *ECB Occasional Paper Series* &bull; <small>[Download paper](https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op283~a2ff6f5481.en.pdf)</small>
 <details>
   <summary>
@@ -62,7 +60,7 @@ The consensus back in 2008 – ten years after the introduction of the euro – 
 **Living with Lower Productivity Growth: Impact on Exports** (with Filippo Di Mauro, Bernardo Mottironi, Gianmarco Ottaviano). 2019. *Facing Up to Low Productivity Growth, Columbia University Press, New York (USA). eds. Posen A. and Zettelmeyer J.* &bull; <small>[Link to download](https://www.piie.com/bookstore/facing-low-productivity-growth)</small>
 <details>
   <summary>
-    <small>Book Description</small>
+    <small>Book Summary</small>
   </summary> 
   <small>
 Labor productivity growth in the United States and other advanced countries has slowed dramatically since the mid-2000s, a major factor in their economic stagnation and political turmoil. Economists have been debating the causes of the slowdown and possible remedies for some years. Unaddressed in this discussion is what happens if the slowdown is not reversed. In this volume, a dozen renowned scholars analyze the impact of sustained lower productivity growth on public finances, social protection, trade, capital flows, wages, inequality, and, ultimately, politics in the advanced industrial world. They conclude that slow productivity growth could lead to unpredictable and possibly dangerous new problems, aggravating inequality and increasing concentration of market power. Facing Up to Low Productivity Growth also proposes ways that countries can cope with these consequences. 
